@@ -44,6 +44,7 @@ Partial Class FormCariSiswa
         Me.NISTextBox = New System.Windows.Forms.TextBox()
         Me.NamaTextBox = New System.Windows.Forms.TextBox()
         Me.KelasTextBox = New System.Windows.Forms.TextBox()
+        Me.PerpustakaanDigitalDataSet1 = New Perpustakaan_Digital.PerpustakaanDigitalDataSet()
         NISLabel = New System.Windows.Forms.Label()
         NamaLabel = New System.Windows.Forms.Label()
         KelasLabel = New System.Windows.Forms.Label()
@@ -51,6 +52,7 @@ Partial Class FormCariSiswa
         CType(Me.TablesiswaBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TablesiswaDataGridView, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.PerpustakaanDigitalDataSet1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'NISLabel
@@ -219,6 +221,11 @@ Partial Class FormCariSiswa
         Me.KelasTextBox.Size = New System.Drawing.Size(100, 20)
         Me.KelasTextBox.TabIndex = 7
         '
+        'PerpustakaanDigitalDataSet1
+        '
+        Me.PerpustakaanDigitalDataSet1.DataSetName = "PerpustakaanDigitalDataSet"
+        Me.PerpustakaanDigitalDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
         'FormCariSiswa
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -244,6 +251,7 @@ Partial Class FormCariSiswa
         CType(Me.TablesiswaDataGridView, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
+        CType(Me.PerpustakaanDigitalDataSet1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -265,4 +273,5 @@ Partial Class FormCariSiswa
     Friend WithEvents NISTextBox As System.Windows.Forms.TextBox
     Friend WithEvents NamaTextBox As System.Windows.Forms.TextBox
     Friend WithEvents KelasTextBox As System.Windows.Forms.TextBox
+    Friend WithEvents PerpustakaanDigitalDataSet1 As Perpustakaan_Digital.PerpustakaanDigitalDataSet
 End Class

@@ -45,7 +45,6 @@ D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustak
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.xml
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.pdb
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\PerpustakaanDigital.mdb
-D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\Perpustakaan Digital.exe
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\Perpustakaan Digital.pdb
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\Perpustakaan Digital.xml
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormBuku.resources
@@ -61,3 +60,25 @@ D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustak
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormPengguna.resources
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.Resources.resources
 D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.vbproj.GenerateResource.Cache
+D:\FILE\File Kuliah\SEMESTER 4\SMESTER 4 UAS\Aplikasi Berbasis Desktop\Perpustakaan-Digital\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\Perpustakaan Digital.exe.config
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.exe
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.xml
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.pdb
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\PerpustakaanDigital.mdb
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\Perpustakaan Digital.pdb
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\bin\Debug\Perpustakaan Digital.xml
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormBuku.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormCariBuku.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormCariSiswa.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormCariTrans.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormLogin.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormSiswa.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormTransaksi.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormTransKembali.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormTransPinjam.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormUtama.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.FormPengguna.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan_Digital.Resources.resources
+C:\Users\User\Documents\Final-UAS-Aplikasi-Berbasis-Desktop\Perpustakaan Digital\Perpustakaan Digital\Perpustakaan Digital\obj\x86\Debug\Perpustakaan Digital.vbproj.GenerateResource.Cache

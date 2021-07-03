@@ -35,4 +35,8 @@
         FormLogin.Show()
         Me.Hide()
     End Sub
+
+    Private Sub FormUtama_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

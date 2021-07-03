@@ -97,7 +97,7 @@ Partial Class FormPengguna
         '
         Me.ToolStripStatusLabel1.Name = "ToolStripStatusLabel1"
         Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(259, 17)
-        Me.ToolStripStatusLabel1.Text = "©2016 Perpustakaan Digital. All Rights Reserved"
+        Me.ToolStripStatusLabel1.Text = "©2021 Perpustakaan Digital. All Rights Reserved"
         '
         'PerpustakaanDigitalDataSet
         '

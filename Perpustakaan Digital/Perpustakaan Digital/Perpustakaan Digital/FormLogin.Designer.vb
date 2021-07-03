@@ -40,6 +40,7 @@ Partial Class FormLogin
         Me.DataGridViewCheckBoxColumn1 = New System.Windows.Forms.DataGridViewCheckBoxColumn()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.PerpustakaanDigitalDataSet1 = New Perpustakaan_Digital.PerpustakaanDigitalDataSet()
         UsernameLabel = New System.Windows.Forms.Label()
         PasswordLabel = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
@@ -47,6 +48,7 @@ Partial Class FormLogin
         CType(Me.PerpustakaanDigitalDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TableloginDataGridView, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PerpustakaanDigitalDataSet1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'UsernameLabel
@@ -181,6 +183,11 @@ Partial Class FormLogin
         Me.Label1.TabIndex = 2
         Me.Label1.Text = "By : M.Hidayatullah"
         '
+        'PerpustakaanDigitalDataSet1
+        '
+        Me.PerpustakaanDigitalDataSet1.DataSetName = "PerpustakaanDigitalDataSet"
+        Me.PerpustakaanDigitalDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
         'FormLogin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -202,6 +209,7 @@ Partial Class FormLogin
         CType(Me.PerpustakaanDigitalDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TableloginDataGridView, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PerpustakaanDigitalDataSet1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -220,4 +228,5 @@ Partial Class FormLogin
     Friend WithEvents DataGridViewTextBoxColumn2 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewCheckBoxColumn1 As System.Windows.Forms.DataGridViewCheckBoxColumn
     Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents PerpustakaanDigitalDataSet1 As Perpustakaan_Digital.PerpustakaanDigitalDataSet
 End Class
